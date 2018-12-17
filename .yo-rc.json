@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "invoicemanager",
+    "packageName": "solutions.autorun.invoicemanager",
+    "packageFolder": "solutions/autorun/invoicemanager",
+    "serverPort": 8888,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pl",
+    "languages": [
+      "en",
+      "pl"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.1",
+    "jwtSecretKey": "ZjhmZGVjYzhkN2FkZTE5YTk5ZTk0ZTU1YzQxOWE3ZGNkMjNjYTNmYmJjYzYzNjQ5MTE2MDljMzk3NWNhYjlkNTViZjhjYmM0ZTBhZThhZjUxZmI4NDcyNjVhNjkwNzE1YTE2NGUxNTM4YzE0MDFmZGRiMDg0ZTVkMTI5MTIwMzg=",
+    "otherModules": []
+  }
+}
